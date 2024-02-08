@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- Niket Gautam (ng2489) [GitHub profile](https://github.com/githubatit)
+- Neal Haulsey (ndh3247) [GitHub profile](https://github.com/nhaulsey)
+- Kevin Li (khl8545) [GitHub profile](https://github.com/Kevinli712390)
+- Yura Wu (cw3460) [GitHub profile](https://github.com/yurawu27)
+
 
 ## Stakeholders
 
