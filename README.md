@@ -20,7 +20,25 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+    As a club-goer, I want to suggest songs to the DJ easily, so that I can hear my favorite tracks without needing to approach the DJ booth physically.
+
+    As a DJ, I want to set a genre or vibe for song suggestions, so that the music fits the theme of the event I'm playing at.
+
+    As an event organizer, I want attendees to engage with the music selection, so that they feel more involved and enjoy the event more.
+
+    As a party attendee, I want to see what songs others are suggesting, so that I can vote on them and influence the playlist with the crowd's favorite choices.
+
+    As a music enthusiast, I want to discover what songs others are enjoying at the event, so that I can find new music that fits my taste.
+
+    As a DJ, I want to download the most liked songs from the app to my console, so that I can seamlessly integrate audience preferences into my set.
+
+    As a concert-goer, I want to scan a QR code to interact with the DJ, so that I can stay in the moment and not miss any part of the show while making a song request.
+
+    As a DJ, I want to receive real-time updates on song popularity, so that I can adjust the set list on the fly to keep the energy high.
+
+    As a bar owner, I want customers to use the app to suggest songs, so that the DJ plays music that keeps them happy and staying longer.
+
+    As a music fan, I want to be able to like songs in the queue, so that the best songs get recognized and have a higher chance of being played.   
 
 ## Activity Diagrams
 
