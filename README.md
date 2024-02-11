@@ -28,7 +28,7 @@ Problems/ frustration:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Revolutionising the world of live of events by empoyering the attendees to directly influence the musical journey during an event through a very intuitive app, bringing about further engagement and satisfaction of attendees and DJs, hence, making the events a lot more interactive and fun. 
 
 ## User Requirements
 
