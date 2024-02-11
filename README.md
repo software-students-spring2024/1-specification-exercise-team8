@@ -54,13 +54,11 @@ Revolutionizing the world of live of events by empowering the attendees to direc
 
 ## Activity Diagrams
 
-As a club-goer, I want to suggest songs to the DJ easily, so that I can hear my favorite tracks without needing to approach the DJ booth physically.
+"As a club-goer, I want to suggest songs to the DJ easily, so that I can hear my favorite tracks without needing to approach the DJ booth physically."
 ![Alt text](proj1uml/user.png)
 
-As a DJ, I want to set a genre or vibe for song suggestions, so that the music fits the theme of the event I'm playing at.
+"As a DJ, I want to set a genre or vibe for song suggestions, so that the music fits the theme of the event I'm playing at."
 ![Alt text](proj1uml/dj.png)
-
-
 
 
 
