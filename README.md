@@ -14,21 +14,21 @@ A little exercise to get started with the specification phase of the software de
 
 Katherine Han is a NYU student that is a frequent party-goer who is also a DJ at parties. She fits into this demographic as she struggles to find ways to organize requested songs at parties. As mentioned in her interview, she would like to seek ways to efficiently manage music suggestions while engaging the preferences of the crowd. 
 
-Goals/ needs: 
-- Need a portable/easy way to let the DJ know which songs to play without having to physically go up to the booth
-- Need an organized system where only the songs that fit into the assigned genre (by the host) can be requested
-- Need to ensure that the songs can be downloaded and played seamlessly on set 
-- Would like to gauge/understand the preference of the audiences/crowd in real time 
+Goals / Needs: 
+- Need a portable/easy way to let the DJ know which songs to play without having to physically go up to the booth.
+- Need an organized system where only the songs that fit into the assigned theme (by the host) can be requested.
+- Need to ensure that the songs can be downloaded and played seamlessly on set.
+- Would like to gauge/understand the preference of the audiences/crowd in real time.
 
-Problems/ frustration:
-- Find it difficult gauge the “vibe” of the crowd when DJ-ing/hosting at a new place
-- Traditional way (direct interaction with the DJ) could be overwhelming and chaotic as there are too many requests all at once
-- Sometimes there are too many songs requested that don’t match the theme of the party/event
-- Some people in the crowd find it intimidating to request songs so their preferences are often ignored
+Problems / Frustrations:
+- Find it difficult to gauge the “vibe” of the crowd when DJ-ing/hosting at a new place.
+- Traditional way (direct interaction with the DJ) could be overwhelming and chaotic as there are too many requests all at once.
+- Sometimes there are too many songs requested that don’t match the theme of the party/event.
+- Some people in the crowd find it intimidating to request songs so their preferences are often ignored.
 
 ## Product Vision Statement
 
-Revolutionising the world of live of events by empoyering the attendees to directly influence the musical journey during an event through a very intuitive app, bringing about further engagement and satisfaction of attendees and DJs, hence, making the events a lot more interactive and fun. 
+Revolutionizing the world of live of events by empowering the attendees to directly influence the musical journey during an event through a very intuitive app, bringing about further engagement and satisfaction of attendees and DJs, hence making the events a lot more interactive and fun. 
 
 ## User Requirements
 
@@ -55,6 +55,7 @@ Revolutionising the world of live of events by empoyering the attendees to direc
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
 
 ## Clickable Prototype
 
