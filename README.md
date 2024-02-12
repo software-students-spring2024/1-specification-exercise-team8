@@ -64,4 +64,4 @@ Revolutionizing the world of live of events by empowering the attendees to direc
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/file/Nnbw1T8qDtWj3IgDRGeLxC/YOU-DJ?type=design&node-id=0%3A1&mode=design&t=ooVrX2HGYn0HPexI-1 
