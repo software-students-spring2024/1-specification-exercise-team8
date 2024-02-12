@@ -63,5 +63,5 @@ Revolutionizing the world of live of events by empowering the attendees to direc
 
 
 ## Clickable Prototype
-
+[clickable prototype](https://www.figma.com/proto/Nnbw1T8qDtWj3IgDRGeLxC/YOU-DJ?type=design&node-id=12-2&t=LpOkyUIsgXNyEPxB-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=12%3A2&mode=design)
 https://www.figma.com/file/Nnbw1T8qDtWj3IgDRGeLxC/YOU-DJ?type=design&node-id=0-1&mode=design&t=ooVrX2HGYn0HPexI-0 
