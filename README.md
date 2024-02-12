@@ -28,7 +28,7 @@ Problems / Frustrations:
 
 ## Product Vision Statement
 
-Revolutionizing the world of live of events by empowering the attendees to directly influence the musical journey during an event through a very intuitive app, bringing about further engagement and satisfaction of attendees and DJs, hence making the events a lot more interactive and fun. 
+Revolutionizing the world of live events by empowering the attendees to directly influence the musical journey during an event through a very intuitive app, bringing about further engagement and satisfaction of attendees and DJs, hence making the events a lot more interactive and fun. 
 
 ## User Requirements
 
